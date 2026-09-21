@@ -1,0 +1,2 @@
+# Urban-Company-Service-Ops-Diagnostic-AI-Augmented-Reporting-Toolkit
+End-to-end Urban Company Service-Ops analytics project using Python, SQL, Excel, and Tableau. Cleaned and validated operational data, analyzed bookings, revenue, partner and category performance, and SLA breaches. Built an interactive dashboard and used Generative AI to generate business insights and support operational escalation workflows.
