@@ -1,0 +1,12 @@
+ SELECT COUNT(*) FROM categories;
+
+-- Result: 7
+
+-- SELECT COUNT(*) FROM partners_import;
+
+-- Result: 52
+
+
+-- SELECT COUNT(*) FROM bookings;
+
+--Result: 600
