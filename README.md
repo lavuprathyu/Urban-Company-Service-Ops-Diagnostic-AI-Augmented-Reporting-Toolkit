@@ -72,6 +72,9 @@ City-category combinations-27
 SLA breaches     -79
 SLA breach rate  -13.2%
 
+delhi is having lowest sla breache rate 
+https://public.tableau.com/app/profile/prathyusha.s2121/viz/UrbanProjectDashboard_17930396084890/SALbeachrate?publish=yes
+
 🎯 Business Outcome
 
 The project creates an end-to-end flow:
