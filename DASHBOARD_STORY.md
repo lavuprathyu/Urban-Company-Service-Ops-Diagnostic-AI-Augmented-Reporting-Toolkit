@@ -67,5 +67,4 @@ All 27 city-category combinations in the shared Excel table show **Match** for b
 
 The dashboard provides a consolidated view of service operations, revenue contribution, and SLA performance. Combining city-level and category-level analysis with SQL reconciliation helps stakeholders make better-informed operational decisions.
 
-Before final submission, all dashboard figures should be checked against the final source data to ensure that the Excel workbook, Tableau dashboard, SQL summary, and this document remain consistent.
-
+Pune recorded the highest city-level revenue, while Delhi NCR had the lowest SLA breach rate. Bengaluru had the highest SLA breach rate and requires further investigation.
