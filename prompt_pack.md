@@ -16,7 +16,7 @@ Draft a concise weekly executive performance update email based strictly on the 
 ### City Metrics
 
 - Pune: ₹2,28,727 — Top revenue market.
-- Bengaluru: ₹1,79,835 — Lowest SLA breach rate at 9.5%.
+- Bengaluru: ₹1,79,835 — 
 - Chennai: ₹1,75,572.
 - Hyderabad: ₹1,71,638.
 - Delhi NCR: Include the verified revenue and SLA breach metrics from the dataset.
@@ -24,13 +24,16 @@ Draft a concise weekly executive performance update email based strictly on the 
 
 ### Operational Highlights
 
-- High-ticket home services contributed significantly to network revenue, with Deep Home Cleaning being a major revenue contributor.
-- Partner adherence in Bengaluru and Chennai remained relatively stable, with SLA breach rates below the 10% tolerance band.
+- Pune recorded the highest city-level revenue at ₹2,28,727.
+- Deep Home Cleaning generated ₹5,08,964 across 176 bookings in the supplied city-category summary.
+- Delhi NCR recorded the lowest city-level SLA breach rate at 7.23% (6 breaches across 83 bookings).
 
 ### Operational Challenges and Mitigation
 
-- Delhi NCR has elevated SLA-breach pressure and requires operational review of peak-hour fulfillment capacity.
-- Electrical Repair has lower booking utilization relative to available partner capacity and requires investigation into demand-generation opportunities.
+- Bengaluru recorded the highest city-level SLA breach rate at 15.89% (17 breaches across 107 bookings). Investigate the causes of these breaches.
+- Delhi NCR generated ₹1,40,771 against its ₹1,50,000 revenue target, leaving a shortfall of ₹9,229.
+- Review Electrical Repair demand and partner capacity only if the relevant utilization and capacity data is available.
+
 
 ### Instructions
 
@@ -175,7 +178,7 @@ then:
 
 Else, if:
 
-`amount_inr > 3000`
+`amount_inr >=3000`
 
 then:
 
