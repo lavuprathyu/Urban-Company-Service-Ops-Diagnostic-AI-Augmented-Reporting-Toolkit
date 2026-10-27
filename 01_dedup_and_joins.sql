@@ -58,3 +58,19 @@ FROM categories c
 LEFT JOIN bookings b
     ON c.category = b.category
 GROUP BY c.category;
+
+-- Task 6: Cross-check 12 sample bookings
+-- Verify booking-level data and identify any test bookings.
+
+SELECT
+    booking_id,
+    city,
+    category,
+    booking_date,
+    amount_inr,
+    complaint_flag,
+    sla_breach_flag,
+    is_test
+FROM bookings
+WHERE booking_id BETWEEN 'B0001' AND 'B0012'
+ORDER BY booking_id;
